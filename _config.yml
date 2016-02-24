@@ -1,0 +1,28 @@
+name: By George
+favicon: null
+layout_spectrum: 0.742926444625482
+typography_spectrum: 0.5634662550874054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3355474539566785
+  lightness: 0.4936291428748518
+  saturation: 0.04518368258140981
+  rhythmicContrast: 0.7350735361687839
+purpose: []
